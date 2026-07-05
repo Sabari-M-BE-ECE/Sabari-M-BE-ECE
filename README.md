@@ -57,7 +57,7 @@
 
 <br/>
 
-> 🩺 Working on designing circuits and PCBs for healthcare wearables
+> 🩺 Worked on designing circuits and PCBs for healthcare wearables
 
 <br/>
 
